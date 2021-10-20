@@ -1,5 +1,0 @@
-#INCLUDE <STDIO.H>
-
-INT MAIN(){
-    PRINTF("HOLA UWU\N");
-}}
